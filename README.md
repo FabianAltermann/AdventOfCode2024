@@ -6,4 +6,7 @@ Coding is done mostly in `Python`, some solutions maybe implemented also in `Gol
 
 * [x] Day 1
     * [x] Part 1
+    * [x] Part 2
+* [x] Day 2
+    * [x] Part 1
     * [x] Part 2  
